@@ -1,6 +1,6 @@
 # Save Auto Scene
 
-Automatically saves dirty scene to specific folder after a certain period of time.
+Automatically saves dirty scene to specific folder after a certain period of time. It's more likely to backup snapshot of scene.
 
 ## Installation
 
